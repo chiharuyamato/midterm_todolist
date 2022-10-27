@@ -1,0 +1,26 @@
+#todo-btn-add {
+    border: none;
+    background-color: rgb(43, 86, 146);
+}
+
+#completed {
+    background-color: green;
+    border: none;
+}
+
+#active {
+    background-color: rgb(224, 210, 51);
+    border: none;
+}
+
+#all {
+    background-color: rgb(232, 14, 47);
+    border: none;
+}
+#clear {
+    background-color: rgb(98, 214, 237);
+    border: none;
+}
+button {
+    border: none;
+}
